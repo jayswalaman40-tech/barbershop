@@ -1,0 +1,9 @@
+Add a persistent master header to all application pages
+
+Introduces a new Layout component to wrap the application, ensuring a consistent header is displayed across all routes, except for specified authentication and full-screen pages. Individual Header imports have been removed from page components.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e3f78370-61f3-4ea7-8b1d-cc610234e02f
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 270c9f26-0c68-42e1-a268-7aa3064bf2e7
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/15475a1c-68cc-4365-8538-b3ae37202a1d/e3f78370-61f3-4ea7-8b1d-cc610234e02f/QJWvxh4
